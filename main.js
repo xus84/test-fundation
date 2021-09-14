@@ -1,0 +1,1 @@
+demo.innerHTML = `<div style="color: blue; text-align:center">We are the Computer_ON<div>`
